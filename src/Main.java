@@ -82,8 +82,6 @@ public class Main {
             }
 
             //8
-
-
             for (int year = 2024 - 200; year < 2024 + 100; year++) {
                 if (year % 79 == 0) {
                     System.out.println(year);
